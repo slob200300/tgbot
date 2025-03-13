@@ -1,4 +1,5 @@
-
+import cv2
+import numpy as np
 import pytesseract
 
 form_tuple = ('Форма № 057/у-04','№ 057/у-04',"057/у-04")
