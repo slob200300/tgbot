@@ -1,6 +1,8 @@
 import logging
 import asyncio
 from aiogram import Bot, Dispatcher
+from apscheduler.schedulers.asyncio import AsyncIOScheduler 
+from apscheduler.triggers.cron import CronTrigger
 from aiogram.fsm.storage.memory import MemoryStorage
 from config import token
 from tgbot import router
