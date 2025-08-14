@@ -1,4 +1,3 @@
-token = '7036170707:AAFQg3xdreJPZhX1NZkrnojmLD-Eqf5E7Fw'
 link = "https://vokb1.ru/ajax/order/"
 link2 = 'https://vokb1.ru/specialists/'
 admin_email = 'izistoreps722@outlook.com'
